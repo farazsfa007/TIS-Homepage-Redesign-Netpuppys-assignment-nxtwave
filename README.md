@@ -6,7 +6,7 @@ The main goal of this project was to create a modern, responsive and interactive
 
 ## Live Demo
 
-* Live Website: Add your deployed Vercel/Netlify URL here
+* Live Website: https://tis-home-page-redesign-netpuppys.netlify.app/
 * GitHub: https://github.com/farazsfa007/TIS-Homepage-Redesign-Netpuppys-assignment-nxtwave
 * Official TIS Website: https://tis.edu.in/
 
